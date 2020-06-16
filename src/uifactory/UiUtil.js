@@ -1,3 +1,7 @@
+import $ from 'jquery'
+import jQuery from 'jquery'
+import vueMask from 'vue-jquery-mask';
+
 var CLS_EACHFIELD = "st-eachfield";
 var CLS_ROW = "st-row";
 var CLS_EACHFIELD_ROW = CLS_EACHFIELD + ' ' + CLS_ROW;
